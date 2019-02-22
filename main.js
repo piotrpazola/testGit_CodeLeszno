@@ -10,7 +10,7 @@ const doSomethingOnWindow = () => {
   app.append(div);
   setTimeout(() => {
     div.innerHTML='Zajebisty napis z pozdrowieniami dla Code Leszno';
-    console.info('Done. Pykło.');
+    console.info('Done.');
   },3000);
 }
 const doSomethingOnConsole = () => {
