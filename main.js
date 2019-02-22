@@ -1,4 +1,4 @@
-/* test v. 0.1 */
+/* test v. 0.11 */
 window.onload = () => {
   doSomethingOnWindow();
   doSomethingOnConsole();
